@@ -1,6 +1,6 @@
 # Eyes for ChatGPT: Enhancing Conversational AI with Visual Understanding
 
-![Eye to Chat GPT Logo](https://dsuj2mkiosyd2.cloudfront.net/unified-gallery/161004/8878/f4f06085/eve-v4-v1-2016-oct-03-03-13-12pm-000-front_1300-auto.webp?t=1679365006)
+![CNN](https://github.com/Kabilduke/Generative-AI-for-Image-Captioning/blob/main/CNN_page-0001.jpg)
 
 In the age of social media, the demand for high-quality content with engaging captions is paramount for audience engagement and community building. This research explores the transformative impact of Generative AI, exceeding initial expectations.
 
@@ -29,19 +29,20 @@ This method not only enhances engagement by generating captions that are relevan
 
 ## Usage
 
-- Run the provided scripts or notebooks to train the model, detect objects in images, generate captions, and integrate with Chat GPT-4.
+- Run the provided scripts or notebooks to train the model, detect objects in images, generate captions, and integrate with Chat GPT-3.5.
 - Follow the instructions in the code comments or README files for each component of the project.
 
-## Contributing
+Research Paper: 
+[Journal Of Research Administration](https://journlra.org/index.php/jra/article/view/1697)
 
-Contributions are welcome! If you'd like to contribute to the Eye to Chat GPT Integration project, please follow these guidelines:
-
-1. Fork the repository and create your branch (`git checkout -b feature/MyFeature`).
-2. Commit your changes (`git commit -am 'Add some feature'`).
-3. Push to the branch (`git push origin feature/MyFeature`).
-4. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+Citation: 
+``` bibtex
+  @article{kabil2024generative, 
+    author    = {Kabil C.A and Vairachilai S}, 
+    title     = {Exploring Generative AI Approaches for Crafting Image Captions: A Research Inquiry into Ethical, Engaging Content Generation}, 
+    journal   = {Journal of Research Administration}, 
+    volume    = {6}, 
+    pages     = {5545--5552}, 
+    year      = {2024}, 
+  }
+```
