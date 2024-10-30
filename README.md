@@ -45,6 +45,6 @@ Citation:
     journal   = {Journal of Research Administration}, 
     volume    = {6}, 
     pages     = {5545--5552}, 
-    year      = {2024}, 
+    year      = {2024} 
   }
 ```
