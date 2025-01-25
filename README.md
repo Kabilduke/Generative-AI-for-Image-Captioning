@@ -35,7 +35,8 @@ This method not only enhances engagement by generating captions that are relevan
 - Follow the instructions in the code comments or README files for each component of the project.
 
 Research Paper: 
-[Journal of Research Administration](https://journlra.org/index.php/jra/article/view/1697)
+[Journal of Research Administration](https://journlra.org/index.php/jra/article/view/1697) 
+
 
 Citation: 
 ``` bibtex
@@ -48,3 +49,4 @@ Citation:
     year      = {2024} 
   }
 ```
+[Scopus](https://www.scopus.com/sourceid/21100920051)
